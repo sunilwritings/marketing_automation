@@ -22,5 +22,5 @@ This project is an automated system that monitors competitors' LinkedIn activity
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/sunwritings4/marketing_automation.git
+   git clone https://github.com/sunwritings/marketing_automation.git
    cd marketing_automation
